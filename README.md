@@ -5,10 +5,10 @@
 - [Libraries Used](#Libraries-used)
 - [Data Sources](#data-sources)
 - [Data Column](#data-column)
-- [Project Structure](#project structure)
-- [How to Use](#how to Use)
+- [Project Structure](#project-structure)
+- [How to Use](#how-to-use)
 - [Results](#results)
-- [Future Work](#future work)
+- [Future Work](#future-work)
 - [Acknowledgments](#acknowledgments)
   
 ## Project Overview
